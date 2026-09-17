@@ -1,6 +1,6 @@
 # Git Day Three
 
-## About me
+## I am learning Git and GitHub — and loving it!
 
 My name is Fatima.
 
